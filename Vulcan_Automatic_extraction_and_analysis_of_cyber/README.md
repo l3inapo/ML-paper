@@ -289,6 +289,3 @@ Vulcan被訓練用來識別6 types of CTI data and 7 types of relationships，�
 
 為了證明Vulcan的可用性，作者還展示了使用search API構建的兩個應用程式。
 
-[逐字稿](https://www.notion.so/8b15e2e72b45405797b70681e3ea7899?pvs=21)
-
-[要問的問題](https://www.notion.so/27d4f6a7997647ed877952b087f0fb06?pvs=21)

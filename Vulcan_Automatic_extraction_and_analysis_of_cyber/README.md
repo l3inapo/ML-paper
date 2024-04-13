@@ -1,5 +1,7 @@
 # Vulcan: Automatic extraction and analysis of cyber threat intelligence from unstructured text
 
+source - https://www.sciencedirect.com/science/article/abs/pii/S0167404822001584
+
 # Introduction
 
 ![Untitled](Vulcan%20Automatic%20extraction%20and%20analysis%20of%20cyber%20%20c3d4260f8b7442fb8f8c4e6262b9f852/Untitled.png)
